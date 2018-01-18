@@ -32,5 +32,8 @@
   name: Docker
   level: 20%
 - skill:
+  name: IntelliJ
+  level: 100%
+- skill:
   name: Git
   level: 99%
