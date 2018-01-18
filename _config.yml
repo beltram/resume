@@ -1,7 +1,7 @@
 # Site Settings
 title: Beltram Maldant
 url: 'https://beltram.github.io/resume/'
-baseurl: '/resume' #change it according to your repository name
+baseurl: '/resume'
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 #style: styles-2
