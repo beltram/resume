@@ -8,6 +8,9 @@
   name: Spring Cloud Netflix
   level: 80%
 - skill:
+  name: Reactive Programming (Rx, Reactor)
+  level: 80%
+- skill:
   name: Mongo DB
   level: 50%
 - skill:
