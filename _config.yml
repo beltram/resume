@@ -21,10 +21,10 @@ montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu
 
 #sidebar links
 email: beltram.maldant@gmail.com
-email.displayname: beltram.maldant@gmail.com
+email-displayname: beltram.maldant@gmail.com
 phone: 07.83.53.02.51
 linkedin: beltram-maldant-2930b880
-linkedin.displayname: beltram-maldant
+linkedin-displayname: beltram-maldant
 github: beltram
 twitter: '@BeltramMaldant'
 #Update all the sections by editing the files inside _data folder.
