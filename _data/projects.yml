@@ -1,24 +1,17 @@
 - intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-
+  description: "Quelques \"side projects\" que j'ai pu mener"
 - project:
-  title: Velocity
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
-- project:
-  title: DevStudio
+  title: Instant Payments POC
   link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  tagline: "POC sur l'implémentation des Instant Payments en microservices. Implémenté en JEE à l'aide de Kumuluzee,
+   de bases MongoDB et Redis et du client Redisson."
 - project:
-  title: Tempo
+  title: Rest Design Principles
   link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  tagline: "Documentation de référence de 80 pages sur REST et ses principes ainsi que des règles de design d'APIs
+  à destination de tous les projets Sopra Banking et ses clients."
 - project:
-  title: Atom
+  title: Flickr & Instagram API
   link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-- project:
-  title: Delta
-  link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  tagline: "Projet d'étude réalisé à l'ETS de Montréal visant à publier une API uniformisant celles de Flickr et Instagram
+  afin de la consommer via un front Angular permettant de retrouver les photos selon leurs position géographiques."
