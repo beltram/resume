@@ -1,6 +1,6 @@
 # Site Settings
-title: My Resume
-url: 'http://webjeda.com'
+title: Beltram Maldant
+url: 'https://beltram.github.io/resume/'
 baseurl: '/resume' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
@@ -12,7 +12,7 @@ baseurl: '/resume' #change it according to your repository name
 
 #Profile information
 name: Beltram Maldant
-tagline: Full Stack Developer
+tagline: Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
@@ -20,12 +20,12 @@ commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis d
 montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+email: beltram.maldant@gmail.com
+phone: 07.83.53.02.51
+website: beltram.github.io/resume/ #do not add http://
+linkedin: beltram-maldant-2930b880
+github: beltram
+twitter: '@BeltramMaldant'
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker
