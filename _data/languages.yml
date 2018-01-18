@@ -1,9 +1,15 @@
 - language:
-  idiom: English
-  level: Native
+  idiom: Français
+  level: Langue maternelle
 - language:
-  idiom: French
-  level: Professional
+  idiom: Anglais
+  level: Courant
 - language:
-  idiom: Spanish
-  level: Professional
+  idiom: Allemand
+  level: Scolaire
+- language:
+  idiom: Espagnol
+  level: Notions
+- language:
+  idiom: Italien
+  level: Notions
