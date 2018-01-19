@@ -35,6 +35,12 @@
   name: Docker
   level: 20%
 - skill:
+  name: Gradle
+  level: 60%
+- skill:
+  name: Maven
+  level: 30%
+- skill:
   name: IntelliJ
   level: 100%
 - skill:
