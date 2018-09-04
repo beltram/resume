@@ -4,8 +4,7 @@
   company: Sopra Banking Software, Nantes - Paris
   details: "Le projet DxP (Digital Experience Platform) fait suite aux directives européennes PSD2 obligeant les banques à ouvrir leurs APIs
   à des tiers. Le but du projet est de fournir une exposition des APIs internes des banques vers un des formats normés de la réglementation PSD2.
-  La solution proposée s'articule autour de microservices SpringBoot à l'aide de la stack Netflix implémentés en Java8 en programmation
-  fonctionnelle et réactive. Mon rôle au sein de ce projet est d'accompagner techniquement l'équipe sur la résolution de bugs,
+  La solution proposée s'articule autour de microservices SpringBoot. Mon rôle au sein de ce projet est d'accompagner techniquement l'équipe sur la résolution de bugs,
   de proposer des solutions aux problématiques techniques et de mener les revues de code hebdomadaires"
 - experience:
   role: Développeur JEE
