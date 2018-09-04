@@ -1,9 +1,21 @@
 - skill:
+  name: Kotlin
+  level: 90%
+- skill:
   name: Java 8
-  level: 95%
+  level: 100%
+- skill:
+  name: Javascript
+  level: 30%
 - skill:
   name: Spring
+  level: 90%
+- skill:
+  name: Android
   level: 70%
+- skill:
+  name: Java EE
+  level: 80%
 - skill:
   name: Spring Cloud Netflix
   level: 80%
@@ -12,37 +24,34 @@
   level: 80%
 - skill:
   name: Mongo DB
+  level: 60%
+- skill:
+  name: Redis
+  level: 60%
+- skill:
+  name: Kubernetes
+  level: 60%
+- skill:
+  name: Istio
+  level: 70%
+- skill:
+  name: Docker
+  level: 50%
+- skill:
+  name: Gradle
+  level: 90%
+- skill:
+  name: Maven
   level: 50%
 - skill:
   name: API design
   level: 100%
 - skill:
-  name: Redis
-  level: 50%
-- skill:
-  name: Java EE
-  level: 80%
-- skill:
-  name: Android
-  level: 70%
-- skill:
-  name: Kotlin
-  level: 60%
-- skill:
-  name: Javascript
-  level: 30%
-- skill:
-  name: Docker
-  level: 20%
-- skill:
-  name: Gradle
-  level: 60%
-- skill:
-  name: Maven
-  level: 30%
-- skill:
   name: IntelliJ
   level: 100%
 - skill:
   name: Git
-  level: 99%
+  level: 100%
+- skill:
+  name: Skaffold, Jib
+  level: 40%

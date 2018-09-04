@@ -4,19 +4,15 @@ url: 'https://beltram.github.io/resume/'
 baseurl: '/resume'
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
-#style: styles-2
-#style: styles-3
-#style: styles-4
-#style: styles-5
 style: styles-6
 
 #Profile information
 name: Beltram Maldant
 tagline: Développeur
-age: 26 ans
+age: 27 ans
 pic: profile.jpg
 summary: "Je suis un développeur nantais passionné par son métier et toutes les stacks techniques dans lesquelles j'évolue.
-J'aime par dessus tout apprendre de nouveaux langages et frameworks afin de construire des applis toujours plus performantes, modernes
+J'aime par dessus tout apprendre de nouveaux langages et frameworks afin de construire des applications toujours plus performantes, modernes
 et scalables. Mon premier souci est d'écrire du code propre, élégant et documenté.<br>
 Au cours de mes premières expériences professionnelles j'ai eu la chance de pouvoir toucher à différents langages même si je me considère
 actuellement comme un développeur backend Java.<br>
