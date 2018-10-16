@@ -8,6 +8,9 @@
   name: Javascript
   level: 30%
 - skill:
+  name: Rust
+  level: 30%
+- skill:
   name: Spring
   level: 90%
 - skill:
