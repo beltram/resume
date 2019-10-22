@@ -1,6 +1,20 @@
 - intro:
   description: "Quelques \"side projects\" que j'ai pu mener"
 - project:
+  title: restdocs-dsl
+  link: "https://github.com/jntakpe/spring-restdocs-dsl"
+  tagline: "Permet d'alléger la syntaxe de Spring Restdocs (génération d'une documentation à partir de tests) à l'aide de DSLs Kotlin. Ma contribution
+  comprend l'apport d'un générateur de DSL à l'aide de kapt afin d'alléger encore la syntaxe"
+- project:
+  title: dxp-gradle
+  link: "#"
+  tagline: "Librairie configurant le build de tous les projets Gradle réduisant la configuration nécessaire à une simple ligne."
+- project:
+  title: dxp-cli
+  link: "#"
+  tagline: "Command Line Interface en Rust (~10k lignes) gérant la plupart des tâches courantes d'un développeur : proxy switching, project initializr à
+  partir de templates, log parser, kubectl helpers..."
+- project:
   title: Instant Payments POC
   link: "#"
   tagline: "POC sur l'implémentation des Instant Payments en microservices. Implémenté en JEE à l'aide de Kumuluzee,
@@ -10,8 +24,3 @@
   link: "#"
   tagline: "Documentation de référence de 80 pages sur REST et ses principes ainsi que des règles de design d'APIs
   à destination de tous les projets Sopra Banking et ses clients."
-- project:
-  title: Flickr & Instagram API
-  link: "#"
-  tagline: "Projet d'étude réalisé à l'ETS de Montréal visant à publier une API uniformisant celles de Flickr et Instagram
-  afin de la consommer via un front Angular permettant de retrouver les photos selon leurs position géographiques."

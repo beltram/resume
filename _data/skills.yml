@@ -1,21 +1,21 @@
 - skill:
   name: Kotlin
-  level: 90%
+  level: 100%
 - skill:
   name: Java 8
   level: 100%
 - skill:
   name: Javascript
-  level: 30%
+  level: 40%
 - skill:
   name: Rust
-  level: 30%
+  level: 60%
 - skill:
   name: Spring
   level: 90%
 - skill:
   name: Android
-  level: 70%
+  level: 60%
 - skill:
   name: Java EE
   level: 80%
@@ -24,7 +24,7 @@
   level: 80%
 - skill:
   name: Reactive Programming (Rx, Reactor)
-  level: 80%
+  level: 90%
 - skill:
   name: Mongo DB
   level: 60%
@@ -42,7 +42,7 @@
   level: 50%
 - skill:
   name: Gradle
-  level: 90%
+  level: 100%
 - skill:
   name: Maven
   level: 50%
