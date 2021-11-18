@@ -20,7 +20,7 @@
   name: Java EE
   level: 80%
 - skill:
-  name: Reactive Programming (Rx, Reactor)
+  name: Reactive Programming
   level: 90%
 - skill:
   name: Mongo DB
