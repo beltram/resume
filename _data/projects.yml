@@ -1,6 +1,14 @@
 - intro:
   description: "Quelques \"side projects\" que j'ai pu mener"
 - project:
+  title: stubr
+  link: "https://github.com/beltram/stubr"
+  tagline: "Réimplémentation de Wiremock en Rust pour améliorer ses performances et développer le contract testing en Rust"
+- project:
+  title: asserhttp
+  link: "https://github.com/beltram/asserhttp"
+  tagline: "Permet de faire des assertions fluent pour la majorité des clients http Rust"
+- project:
   title: restdocs-dsl
   link: "https://github.com/jntakpe/spring-restdocs-dsl"
   tagline: "Permet d'alléger la syntaxe de Spring Restdocs (génération d'une documentation à partir de tests) à l'aide de DSLs Kotlin. Ma contribution

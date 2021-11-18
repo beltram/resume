@@ -2,14 +2,14 @@
   name: Kotlin
   level: 100%
 - skill:
-  name: Java 8
+  name: Java
   level: 100%
 - skill:
   name: Javascript
   level: 40%
 - skill:
   name: Rust
-  level: 60%
+  level: 80%
 - skill:
   name: Spring
   level: 90%
@@ -18,9 +18,6 @@
   level: 60%
 - skill:
   name: Java EE
-  level: 80%
-- skill:
-  name: Spring Cloud Netflix
   level: 80%
 - skill:
   name: Reactive Programming (Rx, Reactor)
@@ -33,28 +30,13 @@
   level: 60%
 - skill:
   name: Kubernetes
-  level: 60%
+  level: 80%
 - skill:
   name: Istio
-  level: 70%
+  level: 60%
 - skill:
   name: Docker
-  level: 50%
+  level: 80%
 - skill:
   name: Gradle
   level: 100%
-- skill:
-  name: Maven
-  level: 50%
-- skill:
-  name: API design
-  level: 100%
-- skill:
-  name: IntelliJ
-  level: 100%
-- skill:
-  name: Git
-  level: 100%
-- skill:
-  name: Skaffold, Jib
-  level: 40%
