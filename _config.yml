@@ -8,14 +8,10 @@ style: styles-6
 
 #Profile information
 name: Beltram Maldant
-tagline: Architecte
-age: 30 ans
+tagline: Architecte / Développeur Rust
+age: 32 ans
 pic: profile.jpg
-summary: "Je suis un dev passionné par son métier et toutes les stacks techniques sur lesquelles j'évolue.
-J'aime par dessus tout apprendre de nouvelles choses afin de construire des applications toujours plus performantes, modernes
-et scalables. Mon premier souci est d'écrire du code propre, élégant et documenté.<br>
-Je suis actuellement à la recherche d'opportunités en remote dans des entreprises
-innovantes bâtissant des architectures microservices à l'aide de langages modernes (Kotlin, Rust...)."
+summary: "Je suis un développeur Rust travaillant pour Wire. Je suis toujours curieux d'apprendre et soucieux d'écrire du code le plus propre possible. Mon principal domain d'expertise est la cryptographie et plus particulièrement MLS."
 
 #sidebar links
 email: beltram.maldant(at)gmail.com

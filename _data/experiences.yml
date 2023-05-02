@@ -1,6 +1,16 @@
 - experience:
+  role: Rust developer
+  time: 2022 -
+  company: Wire (Berlin), remote
+  details: "J'ai commencé mon premier emploi de développeur Rust pour Wire, une application de messagerie sécurisée. Je travaille sur les librairies de cryptographie qui sont en charge du chiffrement des messages et des fonctionnalités primaires de l'application. Mon travaille consiste essentiellement à implémenter un protocole de messagerie: MLS, qui rend les conversation à plusieures centaines d'utilisateurs plus performantes que le traditionnel Double Ratchet. Cela implique également d'exposer une interface commune (FFI) aux consommateurs de cette librairie (Android, iOS et WASM pour le web). Je suis également contributeur de la librarie open-source openmls qui est l'implémentation de référence de MLS. Je contribue aussi à la solution d'identité de bout en bout propriétaire à Wire qui permet aux clients de messagerie de vérifier de manière autonome l'identité de l'expéditeur d'un message. Enfin, dans les prochains mois, je projète d'aider Wire sur le chemin de la conformité DMA (Digital Markets Act), une nouvelle régulation européenne qui vise à rendre les messagerie intéropérables et dont la pierre angulaire est MLS."
+- experience:
+  role: Architecte
+  time: 2020 - 2022
+  company: Sopra Banking Software, Nantes - Paris
+  details: "Après avoir suivi la formation certifiante dispensée par Télécom Paris, j'ai été désigné architecte et ai commencé à réaliser les études de développement des nouveaux projets, donné des formations aux nouveaux arrivants et bien entendu continué à développer des fonctionnalités critiques des systèmes bancaires."
+- experience:
   role: Développeur Spring
-  time: sept. 2017 -
+  time: sept. 2017 - 2020
   company: Sopra Banking Software, Nantes - Paris
   details: "Le projet SBCP (Sopra Banking Cloud Platform) fait suite aux directives européennes PSD2 obligeant les banques à ouvrir leurs APIs
   à des tiers. Le but du projet est de fournir une exposition des APIs internes des banques vers un des formats normés de la réglementation PSD2.
