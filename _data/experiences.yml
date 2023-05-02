@@ -1,5 +1,5 @@
 - experience:
-  role: Rust developer
+  role: Développeur Rust
   time: 2022 -
   company: Wire (Berlin), remote
   details: "J'ai commencé mon premier emploi de développeur Rust pour Wire, une application de messagerie sécurisée. Je travaille sur les librairies de cryptographie qui sont en charge du chiffrement des messages et des fonctionnalités primaires de l'application. Mon travaille consiste essentiellement à implémenter un protocole de messagerie: MLS, qui rend les conversation à plusieures centaines d'utilisateurs plus performantes que le traditionnel Double Ratchet. Cela implique également d'exposer une interface commune (FFI) aux consommateurs de cette librairie (Android, iOS et WASM pour le web). Je suis également contributeur de la librarie open-source openmls qui est l'implémentation de référence de MLS. Je contribue aussi à la solution d'identité de bout en bout propriétaire à Wire qui permet aux clients de messagerie de vérifier de manière autonome l'identité de l'expéditeur d'un message. Enfin, dans les prochains mois, je projète d'aider Wire sur le chemin de la conformité DMA (Digital Markets Act), une nouvelle régulation européenne qui vise à rendre les messagerie intéropérables et dont la pierre angulaire est MLS."
